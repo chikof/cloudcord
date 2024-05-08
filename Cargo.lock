@@ -690,9 +690,9 @@ dependencies = [
 
 [[package]]
 name = "ratelimit"
-version = "0.9.0"
+version = "0.9.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "969d6064e6e4d98485d83cf363147371243df7423b5d43d59f57ed72dc85943e"
+checksum = "6c1bb13e2dcfa2232ac6887157aad8d9b3fe4ca57f7c8d4938ff5ea9be742300"
 dependencies = [
  "clocksource",
  "parking_lot",
